@@ -1,0 +1,2 @@
+# NikkiTool
+日記
